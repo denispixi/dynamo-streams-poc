@@ -1,0 +1,1 @@
+export const CHARACTER_DATABASE_TABLE = 'Characters'
